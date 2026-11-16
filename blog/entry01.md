@@ -58,7 +58,9 @@ What confused me the most was the code they had in order to make the sprite go t
 
 
  ### Takeaways
- From the blog this week it helped me be able to figure out more diverse area of coding in my game which further expanded my recognition of behavioral patterns as I didn't understand the code where there were multiple dash and equal signs, but as I observed the code in kaboom, I am able to realize the similarities between them. As I learned more code from Kaboom it also strengthened my resolve to further continue my project knowing there is still a lot more things to learn ahead not in just coding but also in life as well. 
+ From the blog this week it helped me be able to figure out more diverse area of coding in my game which further **expanded my recognition of behavioral patterns** as I didn't understand the code, where there were multiple dash and equal signs, but as I observed the code in kaboom, I was able to notice and learn the similarities between them. 
+ 
+ As I learned more code from Kaboom **it also strengthened my resolve to further continue my project** knowing there is still a lot more things to learn ahead not in just coding but also in life as well. 
 
 
 
